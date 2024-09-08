@@ -2,9 +2,18 @@
 
 Este repositório se destina a armazenar conhecimento durante minha jornada de apredizando em React
 
+## Diário de Bordo
+
+### Dia 01 (08-09-2024)
+
+- Iniciei os estudos, criando repositório no GitHub e escolhendo um curso para seguir
+- Precisei instalar o compilador node.js para o projeto
+- Assisti as Aulas 1 e 2 do `Curso do Professor Edson Maia`
+- Tentei corrigir os "warnings" que surgiram no terminal e precisei refazer o projeto do zero (moral da história: Se tá funcionando, não mexe!)
+
 ## Material de Apoio
 
-[Professor Edson Maia](https://www.youtube.com/watch?v=KsFLXOTflsM&list=PLnex8IkmReXyNgtea8ly0Pn7Kk7Kavn9v&ab_channel=ProfessorEdsonMaia)
+[Curso do Professor Edson Maia](https://www.youtube.com/watch?v=KsFLXOTflsM&list=PLnex8IkmReXyNgtea8ly0Pn7Kk7Kavn9v&ab_channel=ProfessorEdsonMaia)
 
 ## Dependências
 
