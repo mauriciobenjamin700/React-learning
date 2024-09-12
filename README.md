@@ -11,6 +11,11 @@ Este repositório se destina a armazenar conhecimento durante minha jornada de a
 - Assisti as Aulas 1 e 2 do `Curso do Professor Edson Maia`
 - Tentei corrigir os "warnings" que surgiram no terminal e precisei refazer o projeto do zero (moral da história: Se tá funcionando, não mexe!)
 
+### Dia 02 (11-09-2024)
+
+- Assisti a Aula 3
+- Segui o passo a passo e entendi o que é um componente funcional
+
 ## Material de Apoio
 
 [Curso do Professor Edson Maia](https://www.youtube.com/watch?v=KsFLXOTflsM&list=PLnex8IkmReXyNgtea8ly0Pn7Kk7Kavn9v&ab_channel=ProfessorEdsonMaia)
