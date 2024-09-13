@@ -4,7 +4,7 @@ function Footer(){
     return (
         <footer className={styles.footer}>
             <h2>
-                TestFLix &copy; Desenvolvido por Mauricio Benjamin 2024
+                TestFlix &copy; Desenvolvido por Mauricio Benjamin 2024
             </h2>
         </footer>
     );

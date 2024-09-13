@@ -16,6 +16,11 @@ Este repositório se destina a armazenar conhecimento durante minha jornada de a
 - Assisti a Aula 3
 - Segui o passo a passo e entendi o que é um componente funcional
 
+### Dia 03 (13-09-2024)
+
+- Assisti a Aula 4
+- Segui o modelo e estou considerando outra abordagem para organizar as imagens dos banners
+
 ## Material de Apoio
 
 [Curso do Professor Edson Maia](https://www.youtube.com/watch?v=KsFLXOTflsM&list=PLnex8IkmReXyNgtea8ly0Pn7Kk7Kavn9v&ab_channel=ProfessorEdsonMaia)

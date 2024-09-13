@@ -1,0 +1,10 @@
+.banner{
+    width: 100%; /* Tamanho da imagem deveria ser 1920x347*/
+    height: 347px; 
+    
+    /* background-image: url(/public/images/banner-home.png); caminho da imagem */
+    background-repeat: no-repeat; /*não repetir a imagem*/
+    background-size: cover; /*cobrir todo o espaço do elemento*/
+    background-position: center; /*centralizar a imagem*/
+    padding-top: 68px;
+}
